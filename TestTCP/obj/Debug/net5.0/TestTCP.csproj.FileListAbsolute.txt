@@ -1,0 +1,16 @@
+C:\Users\cafarovr\source\repos\TestTCP\TestTCP\bin\Debug\net5.0\TestTCP.exe
+C:\Users\cafarovr\source\repos\TestTCP\TestTCP\bin\Debug\net5.0\TestTCP.deps.json
+C:\Users\cafarovr\source\repos\TestTCP\TestTCP\bin\Debug\net5.0\TestTCP.runtimeconfig.json
+C:\Users\cafarovr\source\repos\TestTCP\TestTCP\bin\Debug\net5.0\TestTCP.runtimeconfig.dev.json
+C:\Users\cafarovr\source\repos\TestTCP\TestTCP\bin\Debug\net5.0\TestTCP.dll
+C:\Users\cafarovr\source\repos\TestTCP\TestTCP\bin\Debug\net5.0\ref\TestTCP.dll
+C:\Users\cafarovr\source\repos\TestTCP\TestTCP\bin\Debug\net5.0\TestTCP.pdb
+C:\Users\cafarovr\source\repos\TestTCP\TestTCP\obj\Debug\net5.0\TestTCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cafarovr\source\repos\TestTCP\TestTCP\obj\Debug\net5.0\TestTCP.AssemblyInfoInputs.cache
+C:\Users\cafarovr\source\repos\TestTCP\TestTCP\obj\Debug\net5.0\TestTCP.AssemblyInfo.cs
+C:\Users\cafarovr\source\repos\TestTCP\TestTCP\obj\Debug\net5.0\TestTCP.csproj.CoreCompileInputs.cache
+C:\Users\cafarovr\source\repos\TestTCP\TestTCP\obj\Debug\net5.0\TestTCP.dll
+C:\Users\cafarovr\source\repos\TestTCP\TestTCP\obj\Debug\net5.0\ref\TestTCP.dll
+C:\Users\cafarovr\source\repos\TestTCP\TestTCP\obj\Debug\net5.0\TestTCP.pdb
+C:\Users\cafarovr\source\repos\TestTCP\TestTCP\obj\Debug\net5.0\TestTCP.genruntimeconfig.cache
+C:\Users\cafarovr\source\repos\TestTCP\TestTCP\obj\Debug\net5.0\TestTCP.csprojAssemblyReference.cache
